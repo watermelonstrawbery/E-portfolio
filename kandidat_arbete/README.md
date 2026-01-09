@@ -1,3 +1,10 @@
+Kandidat arbete i par
+
+Ett personlighetstest chatbot baserad på Big Five med hjälp av en large language model (LLM)
+
+Chatbotten ställer frågor direkt till användaren och användaren svarar i svarsutan och på så sätt avgör LLM vilken personlighetstyp användaren har efter 10 frågor i en intuitiv konversation.
+
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
